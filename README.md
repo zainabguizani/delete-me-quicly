@@ -1,1 +1,1 @@
-# delete-me-quicly
+# delete-me-quickly
